@@ -1,0 +1,7 @@
+C:\Users\Andrew\source\repos\AlmostABoardGame\AlmostABoardGame\bin\Debug\AlmostABoardGame.exe.config
+C:\Users\Andrew\source\repos\AlmostABoardGame\AlmostABoardGame\bin\Debug\AlmostABoardGame.exe
+C:\Users\Andrew\source\repos\AlmostABoardGame\AlmostABoardGame\bin\Debug\AlmostABoardGame.pdb
+C:\Users\Andrew\source\repos\AlmostABoardGame\AlmostABoardGame\obj\Debug\AlmostABoardGame.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\source\repos\AlmostABoardGame\AlmostABoardGame\obj\Debug\AlmostABoardGame.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\source\repos\AlmostABoardGame\AlmostABoardGame\obj\Debug\AlmostABoardGame.exe
+C:\Users\Andrew\source\repos\AlmostABoardGame\AlmostABoardGame\obj\Debug\AlmostABoardGame.pdb
